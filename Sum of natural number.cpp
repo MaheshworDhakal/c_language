@@ -22,3 +22,5 @@ printf("the sum of number is %d\n",sum);
 	
 	return 0;
 }
+hi its me masheshwor dhakal and you 
+
